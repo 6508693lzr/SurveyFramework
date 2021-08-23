@@ -3,3 +3,7 @@ food
 money
 poker
 pedestrian
+train
+scv
+game
+cd
